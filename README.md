@@ -1,2 +1,2 @@
 # basicApi
-Como usar query params y URL params...testing
+Como usar query params y URL params...testing pull and push
