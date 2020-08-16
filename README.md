@@ -1,2 +1,2 @@
 # basicApi
- Ejemplo de subida de código a GitHub
+ Como usar query params y URL params
